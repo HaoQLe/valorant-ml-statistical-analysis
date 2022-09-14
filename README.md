@@ -1,6 +1,7 @@
 # CSE 163 Final Project - ESports(Valorant) Research
-Young You (cuperido@uw.edu)
 Hao Le (lehao206@uw.edu)
+Young You (cuperido@uw.edu)
+
 
 
 # Setup
