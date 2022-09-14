@@ -1,0 +1,21 @@
+GameID,MatchID,Map,Team1ID,Team2ID,Team1,Team2,Winner,Team1_TotalRounds,Team2_TotalRounds,Team1_SideFirstHalf,Team2_SideFirstHalf,Team1_RoundsFirstHalf,Team1_RoundsSecondtHalf,Team1_RoundsOT,Team2_RoundsFirstHalf,Team2_RoundsSecondtHalf,Team2_RoundsOT,Team1_PistolWon,Team1_Eco,Team1_EcoWon,Team1_SemiEco,Team1_SemiEcoWon,Team1_SemiBuy,Team1_SemiBuyWon,Team1_FullBuy,Team1_FullBuyWon,Team2_PistolWon,Team2_Eco,Team2_EcoWon,Team2_SemiEco,Team2_SemiEcoWon,Team2_SemiBuy,Team2_SemiBuyWon,Team2_FullBuy,Team2_FullBuyWon,WinnerTeamIdx
+60894,62393,Breeze,6903,6020,Booster Seat Gaming,Pho Real,Booster Seat Gaming,13,7,defend,attack,7,6,0,5,2,0,2.0,2.0,2.0,0.0,0.0,5.0,3.0,13.0,8.0,0.0,4.0,0.0,2.0,0.0,4.0,1.0,10.0,6.0,1
+60895,62393,Bind,6903,6020,Booster Seat Gaming,Pho Real,Pho Real,2,13,defend,attack,2,0,0,10,3,0,0.0,3.0,0.0,3.0,0.0,5.0,1.0,4.0,1.0,2.0,2.0,2.0,0.0,0.0,4.0,3.0,9.0,8.0,2
+60896,62393,Haven,6903,6020,Booster Seat Gaming,Pho Real,Booster Seat Gaming,13,8,attack,defend,8,5,0,4,4,0,1.0,2.0,1.0,2.0,1.0,5.0,2.0,12.0,9.0,1.0,2.0,1.0,2.0,0.0,6.0,2.0,11.0,5.0,1
+60924,62403,Icebox,7046,7047,Bjor's Kittens,Mugiwara,Bjor's Kittens,13,6,defend,attack,7,6,0,5,1,0,2.0,2.0,2.0,2.0,0.0,4.0,3.0,11.0,8.0,0.0,4.0,0.0,1.0,0.0,2.0,1.0,12.0,5.0,1
+60925,62403,Haven,7046,7047,Bjor's Kittens,Mugiwara,Bjor's Kittens,13,9,defend,attack,9,4,0,3,6,0,1.0,4.0,2.0,2.0,0.0,3.0,0.0,13.0,11.0,1.0,3.0,2.0,3.0,0.0,4.0,3.0,12.0,4.0,1
+60888,62391,Breeze,6461,6903,Akrew,Booster Seat Gaming,Booster Seat Gaming,7,13,defend,attack,5,2,0,7,6,0,0.0,3.0,0.0,2.0,1.0,2.0,0.0,13.0,6.0,2.0,2.0,2.0,0.0,0.0,5.0,3.0,13.0,8.0,2
+60889,62391,Bind,6461,6903,Akrew,Booster Seat Gaming,Akrew,13,7,attack,defend,6,7,0,6,1,0,1.0,3.0,1.0,0.0,0.0,4.0,3.0,13.0,9.0,1.0,3.0,1.0,3.0,0.0,5.0,2.0,9.0,4.0,1
+60890,62391,Haven,6461,6903,Akrew,Booster Seat Gaming,Akrew,13,4,defend,attack,9,4,0,3,1,0,2.0,2.0,2.0,1.0,1.0,4.0,3.0,10.0,7.0,0.0,2.0,0.0,3.0,0.0,7.0,2.0,5.0,2.0,1
+60903,62396,Breeze,6164,7043,Radiance,sameROFLMAO,Radiance,13,3,defend,attack,10,3,0,2,1,0,2.0,2.0,2.0,0.0,0.0,4.0,3.0,10.0,8.0,0.0,4.0,0.0,2.0,0.0,6.0,3.0,4.0,0.0,1
+60904,62396,Icebox,6164,7043,Radiance,sameROFLMAO,Radiance,13,2,defend,attack,10,3,0,2,0,0,2.0,2.0,2.0,0.0,0.0,5.0,4.0,8.0,7.0,0.0,4.0,0.0,2.0,0.0,3.0,0.0,6.0,2.0,1
+60918,62401,Ascent,7045,7046,Salt and Vinegar,Bjor's Kittens,Salt and Vinegar,13,7,attack,defend,10,3,0,2,5,0,1.0,3.0,1.0,2.0,1.0,3.0,3.0,12.0,8.0,1.0,3.0,1.0,3.0,0.0,6.0,4.0,8.0,2.0,1
+60919,62401,Haven,7045,7046,Salt and Vinegar,Bjor's Kittens,Salt and Vinegar,14,12,defend,attack,3,9,2,9,3,0,0.0,3.0,0.0,2.0,0.0,5.0,3.0,16.0,11.0,2.0,2.0,2.0,4.0,0.0,4.0,3.0,16.0,7.0,1
+60921,62402,Bind,7047,3545,Mugiwara,CLG Red,Mugiwara,13,8,defend,attack,7,6,0,5,3,0,1.0,3.0,1.0,1.0,0.0,3.0,1.0,14.0,11.0,1.0,3.0,1.0,1.0,0.0,5.0,2.0,12.0,5.0,1
+60922,62402,Icebox,7047,3545,Mugiwara,CLG Red,Mugiwara,13,8,defend,attack,6,7,0,6,2,0,2.0,3.0,2.0,1.0,0.0,5.0,2.0,12.0,9.0,0.0,4.0,1.0,1.0,0.0,1.0,0.0,15.0,7.0,1
+60879,62355,Haven,6436,4680,True Rippers,T69,True Rippers,13,7,defend,attack,5,8,0,7,0,0,1.0,3.0,1.0,1.0,1.0,4.0,2.0,12.0,9.0,1.0,3.0,1.0,3.0,0.0,6.0,3.0,8.0,3.0,1
+60880,62355,Ascent,6436,4680,True Rippers,T69,True Rippers,13,11,attack,defend,5,8,0,7,4,0,1.0,3.0,1.0,1.0,0.0,9.0,6.0,11.0,6.0,1.0,3.0,1.0,0.0,0.0,9.0,4.0,12.0,6.0,1
+60882,62389,Ascent,6461,7042,Akrew,Squishy and Friends,Akrew,13,1,defend,attack,11,2,0,1,0,0,2.0,2.0,2.0,0.0,0.0,3.0,3.0,9.0,8.0,0.0,3.0,0.0,2.0,0.0,4.0,1.0,5.0,0.0,1
+60883,62389,Bind,6461,7042,Akrew,Squishy and Friends,Akrew,13,1,attack,defend,11,2,0,1,0,0,2.0,2.0,2.0,0.0,0.0,3.0,3.0,9.0,8.0,0.0,3.0,0.0,3.0,0.0,4.0,1.0,4.0,0.0,1
+60885,62390,Icebox,6903,6020,Booster Seat Gaming,Pho Real,Booster Seat Gaming,13,2,attack,defend,10,3,0,2,0,0,2.0,2.0,2.0,0.0,0.0,3.0,2.0,10.0,9.0,0.0,4.0,0.0,1.0,0.0,5.0,1.0,5.0,1.0,1
+60886,62390,Haven,6903,6020,Booster Seat Gaming,Pho Real,Booster Seat Gaming,13,3,attack,defend,9,4,0,3,0,0,1.0,2.0,1.0,0.0,0.0,5.0,4.0,9.0,8.0,1.0,4.0,1.0,1.0,0.0,6.0,0.0,5.0,2.0,1
